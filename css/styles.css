@@ -1,0 +1,150 @@
+body{
+	text-align: center;
+	margin: auto;	
+	background-image: url(https://s-media-cache-ak0.pinimg.com/564x/24/58/1a/24581ad02e8a939c8b10464f692b0bda.jpg);
+	/*background-repeat: no-repeat;*/
+	background-size: 1000px 2000px;
+	background-position: center; 
+	color: white;
+	border-radius: 25px;
+	
+
+
+}
+
+
+
+.content{
+	/*background-color: grey;*/
+	margin-right: 300px;
+	margin-left: 300px;
+	margin-top: 25px;
+	margin-bottom: 0px;
+	border-radius: 25px;
+
+	
+}
+
+#name{
+	background-color: black;
+	margin-bottom: -5px;
+	font-size: 90px;
+	font-family: 'Nixie One', cursive;
+
+
+	
+}
+#tagLine{
+	margin-top:-5px;
+	font-size: 60px;
+	background-color: black;
+	font-family: 'Yellowtail', cursive;
+
+}
+.guide{
+	align-content: left;
+	color: white;
+	font-family: 'Homemade Apple', cursive;
+	display: inline;
+	margin: 50px;
+	font-size: 25px;
+	text-decoration: none;
+
+}
+.guide:hover{
+	background-color: pink;
+}
+
+
+#menu{
+	background-color: white;
+	border: 10px dotted pink;
+	color: black;
+
+
+}
+#today{
+	background-color: pink;
+	border: 10px dotted grey;
+	
+}
+#special{
+	margin-top: 1px;
+	font-family: 'Nixie One', cursive;
+	font-weight: bolder;
+	font-size: 50px;
+	
+}
+.sectionTitle{
+	margin-bottom:0em;
+	font-size: 55px;
+	color: black;
+	font-family: 'Homemade Apple', cursive;
+
+}
+#pizza{
+
+	
+}
+.pizzaName{
+	font-family: 'Nixie One', cursive;
+	font-weight: bolder;
+	font-size: 50px;
+
+	
+
+}
+.description{
+	font-family: 'Stint Ultra Condensed', cursive;
+	font-size: 30px;
+	
+
+}
+.price{
+	font-family: 'Courgette', cursive;
+	font-size: 40px;
+	font-style: italic;
+	font-weight: bolder;
+
+}
+#subscribe{
+	background-color: grey;
+	color: black;
+	border: 10px dotted pink;
+	
+}
+#deal{
+	font-family: 'Stint Ultra Condensed', cursive;
+	font-size: 30px;
+}
+#visit{
+	margin-bottom:0em;
+	border: 10px dotted pink;
+	color: black;
+	background: grey;
+	box-sizing: border-box;
+	box-sizing: 400px;
+
+}
+
+#addy{
+	list-style-type: none;
+	margin-top:0em;
+	text-align: center;
+	font-family: 'Stint Ultra Condensed', cursive;
+	font-size: 30px;
+
+
+
+	
+}
+#credit{
+
+}
+
+footer{
+	color: black;
+	margin-top: 0px;
+	margin-left: 400px;
+	margin-right: 400px;
+}
